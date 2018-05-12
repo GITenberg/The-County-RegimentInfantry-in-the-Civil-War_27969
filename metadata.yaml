@@ -1,0 +1,27 @@
+_repo: The-County-RegimentInfantry-in-the-Civil-War_27969
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaill, Dudley Landon
+    gutenberg_agent_id: '33047'
+    url: http://www.gutenberg.org/2009/agents/33047
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2009-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Connecticut Artillery Regiment, 2nd (1863-1865)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+title: "The County Regiment\r\nA Sketch of the Second Regiment of Connecticut Volunteer\
+  \ Heavy Artillery, Originally the Nineteenth Volunteer Infantry, in the Civil War"
+url: http://www.gutenberg.org/ebooks/27969
